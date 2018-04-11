@@ -61,7 +61,7 @@ Funciones de las teclas especiales en modo administrador.
 Nota:
 Para poder desplazar la información estan como apoyo las teclas barra espaciadora, Re Pág y Av Pág.
 
-<script src="https://asciinema.org/a/cjYTrbDnVdoC2RcGoC9Motpqc.js" id="asciicast-cjYTrbDnVdoC2RcGoC9Motpqc" async data-autoplay="1"></script>
+<script src="https://asciinema.org/a/cjYTrbDnVdoC2RcGoC9Motpqc.js" id="asciicast-cjYTrbDnVdoC2RcGoC9Motpqc" async data-autoplay="true" data-size="small"></script>
 
 
 
